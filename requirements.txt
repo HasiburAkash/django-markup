@@ -1,0 +1,10 @@
+black = "*"
+coverage = "*"
+pytest = "*"
+pytest-django = "*"
+pytest-cov = "*"
+wheel = "*"
+setuptools = "*"
+ruff = "*"
+typing-extensions = "*"
+django-markup = {editable = true,extras = ["all_filter_dependencies"],path = "."}
